@@ -1,0 +1,23 @@
+div {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    margin-right: 8px;
+    width: 60%;
+  }
+  
+  button {
+    background-color: #5bc0de;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #46b8da;
+  }
+  

@@ -1,0 +1,42 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  thead {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  td:hover {
+    background-color: #4dd0a6;
+  }
+  
+  td{
+    text-align: center;
+  }
+
+  th.center {
+    text-align: center;
+  }
+  
+  .clearButton {
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .clearButton:hover {
+    background-color: #c9302c;
+  }

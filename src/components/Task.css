@@ -1,0 +1,26 @@
+tr {
+    transition: background-color 0.3s;
+  }
+  
+  td {
+    padding: 12px;
+    text-align: center;
+  }
+  
+  button {
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #c9302c;
+  }
+  
+  input[type="checkbox"] {
+    cursor: pointer;
+  }
+  
